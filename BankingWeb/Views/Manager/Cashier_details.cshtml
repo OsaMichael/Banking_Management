@@ -1,0 +1,33 @@
+﻿@model List<BankingRepository.Business.Cashier>
+@{
+    ViewBag.Title = "Cashier_details";
+    Layout = "~/Views/Shared/_Managerlayout.cshtml";
+}
+
+<h2>Cashier_details</h2>
+
+<table>
+    <tbody>
+        <tr>
+            <td>Name</td>
+            <td>Branch</td>
+            <td>Mobile</td>
+            <td>Address</td>
+            <td>Last PaymentDate</td>
+            <td>Total Payment</td>
+        </tr>
+        @foreach (BankingRepository.Business.Cashier br in Model)
+        {
+            <tr>
+                <td>@br.Cashier_Name</td>
+                <td>@br.Cashier_branch</td>
+                <td>@br.Cashier_mobile</td>
+                <td>@br.Cashier_address</td>
+                <td>@br.Cashier_LastPaymentDate</td>
+                <td>@br.Cashier_TotalPayment</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

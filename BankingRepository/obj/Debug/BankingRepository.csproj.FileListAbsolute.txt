@@ -1,0 +1,14 @@
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\BankingMagement\BankingRepository\bin\Debug\BankingRepository.dll.config
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\BankingMagement\BankingRepository\bin\Debug\BankingRepository.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\BankingMagement\BankingRepository\bin\Debug\BankingRepository.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\BankingMagement\BankingRepository\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\BankingMagement\BankingRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\BankingMagement\BankingRepository\bin\Debug\itextsharp.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\BankingMagement\BankingRepository\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\BankingMagement\BankingRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\BankingMagement\BankingRepository\bin\Debug\itextsharp.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\BankingMagement\BankingRepository\obj\Debug\BankingRepository.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\BankingMagement\BankingRepository\obj\Debug\BankingRepository.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\BankingMagement\BankingRepository\obj\Debug\BankingRepository.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\BankingMagement\BankingRepository\obj\Debug\BankingRepository.Migrations.initial.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\BankingMagement\BankingRepository\obj\Debug\BankingRepository.csproj.GenerateResource.Cache
